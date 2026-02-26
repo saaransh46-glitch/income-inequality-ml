@@ -17,12 +17,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## How to Reproduce
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/income-inequality-ml.git
+git clone https://github.com/saaransh46-glitch/income-inequality-ml.git
 ```
 
 2. Open the notebook:
 ```bash
-jupyter notebook income_prediction.ipynb
+jupyter notebook analysis.ipynb
 ```
 
 3. Run all cells from top to bottom (Cell → Run All)
